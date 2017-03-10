@@ -16,13 +16,8 @@
 
 6. Figure_6_duplicate_removal.R - generates all figures shown in figure 6. 
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Louise Moncla
+* lhmoncla@gmail.com
